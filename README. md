@@ -1,0 +1,75 @@
+Web Security Lab
+
+A practical laboratory dedicated to learning, testing, and documenting web application security vulnerabilities.
+
+Objective
+
+The goal of this project is to reproduce common and advanced web security vulnerabilities in a controlled environment and document the methodology used to identify and validate them.
+
+Security Areas
+
+- Authentication
+- Access Control
+- Business Logic
+- Race Conditions
+- API Security
+- Cross-Site Request Forgery
+- Cross-Site Scripting
+- SQL Injection
+- SSRF
+- File Upload
+- XXE
+- OAuth
+- JWT
+- CORS
+- Web Cache Security
+
+Testing Methodology
+
+Each vulnerability is approached using the following process:
+
+Observation
+     ↓
+Hypothesis
+     ↓
+Test
+     ↓
+Result
+     ↓
+Evidence
+     ↓
+Impact
+     ↓
+Report
+
+Laboratory Structure
+
+The laboratory contains isolated challenges designed to reproduce security issues and understand their underlying causes.
+
+Each challenge focuses on:
+
+- Vulnerability identification
+- Root cause analysis
+- Practical testing
+- Impact validation
+- Remediation
+
+Environment
+
+- Linux
+- Firefox
+- Burp Suite
+- Python
+- Bash
+
+Status
+
+🚧 Actively developing
+
+New vulnerabilities and challenges will be added progressively.
+
+Disclaimer
+
+This project is intended for educational and authorized security testing purposes only.
+
+Do not use the techniques documented here against systems without permission.
